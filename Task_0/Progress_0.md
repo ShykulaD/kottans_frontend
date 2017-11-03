@@ -1,6 +1,6 @@
 1. Finish the course How to use Git and GitHub - [x] DONE (screenshow is in repo)
 
-2. Finish try.github.io - - [x] DONE 
+2. Finish try.github.io - # [checkbox:checked] DONE
 
 3. Create repository named "kottans_frontend". - - [x] DONE  (https://github.com/ShykulaD/kottans_frontend)
 
