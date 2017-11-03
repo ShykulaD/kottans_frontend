@@ -1,4 +1,4 @@
-1. Finish the course How to use Git and GitHub - - [x] DONE (screenshow is in repo)
+1. Finish the course How to use Git and GitHub - [x] DONE (screenshow is in repo)
 
 2. Finish try.github.io - - [x] DONE 
 
