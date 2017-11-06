@@ -17,6 +17,6 @@ Task_2.1: What is Version Control
  
 ![Task_2.1](Task_2/Images/Course_2.1.png)
 
-Task_2.2:GitHub & Collaboration
+Task_2.2: GitHub & Collaboration
  
 ![Task_2.2](Task_2/Images/Course_2.2.png)
