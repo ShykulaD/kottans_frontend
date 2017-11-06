@@ -1,2 +1,2 @@
-1. Intro to HTML & CSS - 
+1. Intro to HTML & CSS - **Done**
 

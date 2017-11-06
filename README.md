@@ -24,3 +24,7 @@ Task_2.1: What is Version Control - **Done**
 Task_2.2: GitHub & Collaboration - **Done**
  
 ![Task_2.2](Task_2/Images/Course_2.2.png)
+
+Task_3: Intro to HTML & CSS - **Done**
+ 
+![Task_3](Task_3/Images/Course_3.png)
