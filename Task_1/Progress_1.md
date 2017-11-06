@@ -1,5 +1,5 @@
 1. Linux Command Line Basics - **Done**
-2. Configuring Linux Web Servers
+2. Configuring Linux Web Servers - **Done**
 
 3. Networking for Web Developers
 
