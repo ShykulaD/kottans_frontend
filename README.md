@@ -1,5 +1,4 @@
-Task_0: How to use Git and GitHub - **Done
-
+Task_0: How to use Git and GitHub - **Done**
 Nice complex course about Git and GitHub basics on Udacity. I had a problems with merging conflicts, making pull requests.
 Carry on learning and master skills... - **Done** 
 
