@@ -3,7 +3,7 @@ Task_0: How to use Git and GitHub - **Done--
 Nice complex course about Git and GitHub basics on Udacity. I had a problems with merging conflicts, making pull requests.
 Carry on learning and master skills... - **Done** 
 
-![Task_0](Task_0/Images/Course_0.png)
+![Task_0](Stage 0. Self-Study/Task_0/Images/Course_0.png)
 
 Task_1.1: Linux Command Line Basics 
 
