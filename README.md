@@ -1,5 +1,3 @@
-Task_1: Linux Command Line Basics 
-
 ![Task_1](task_01/Images/Course_1.png)
 
 Task_2: Configuring Linux Web Servers - **Done**
