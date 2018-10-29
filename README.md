@@ -1,27 +1,23 @@
-Task_1: Linux Command Line Basics 
+Task_0: Git Basics
 
-![Task_1](task_01/Images/Course_1.png)
+![Task_0](Images/Git_Basics.png)
 
-Task_2: Configuring Linux Web Servers - **Done**
-
-![Task_2](task_01/Images/Course_2.png)
-
-Task_3: Networking for Web Developers - **Done**
+Task_1: Linux CLI and Networking - **Done**
  
-![Task_3](task_01/Images/Course_3.png)
+![Task_1](Images/Linux_0.png)
 
-Task_2.1: What is Version Control - **Done**
- 
-![Task_2.1](task_02/Images/Course_2.1.png)
+![Task_1](Images/Linux_1.png)
 
-Task_2.2: GitHub & Collaboration - **Done**
+Task_2: VCS (hello gitty), GitHub and Collaboration - **Done**
  
-![Task_2.2](task_02/Images/Course_2.2.png)
+![Task_2](Images/VCS_0.png)
+
+![Task_2](Images/VCS_1.png)
 
 Task_3: Intro to HTML & CSS - **Done**
  
-![Task_3](Task_3/Images/Course_3.png)
+![Task_3](Images/HTML.png)
 
-Task_4: Responsive Web Design - **Done**
+Task_4: Responsive Web Design Fundamentals - **Done**
  
-![Task_4](Task_4/Course_4.png)
+![Task_4](Images/Resp.png)
