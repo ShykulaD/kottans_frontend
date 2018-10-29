@@ -21,3 +21,7 @@ Task_2.2: GitHub & Collaboration - **Done**
 Task_3: Intro to HTML & CSS - **Done**
  
 ![Task_3](Task_3/Images/Course_3.png)
+
+Task_4: Responsive Web Design - **Done**
+ 
+![Task_4](Task_4/Course_4.png)
