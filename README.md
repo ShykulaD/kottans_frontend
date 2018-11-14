@@ -19,5 +19,9 @@ Task_3: Intro to HTML & CSS - **Done**
 ![Task_3](Images/HTML.png)
 
 Task_4: Responsive Web Design Fundamentals - **Done**
- 
+                           
 ![Task_4](Images/Resp.png)
+
+Task_5: Js basics - **Done**
+ 
+![Task_4](Images/Js_basics.png)
